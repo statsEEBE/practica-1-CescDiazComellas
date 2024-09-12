@@ -26,7 +26,6 @@ median(mis_dades$drat) # 1/2
 
 sort(mis_dades$drat)
 
-
 quantile(mis_dades$drat) #quartil 1/4
 
 sort(mis_dades$mpg)
